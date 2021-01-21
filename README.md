@@ -1,4 +1,4 @@
-# pipenv-docker
+# Pipenv Docker Image
 
 This is based on the original [pipenv Dockerfile](https://github.com/pypa/pipenv/blob/master/Dockerfile), but with an updated base image and Python 3.8.
 
